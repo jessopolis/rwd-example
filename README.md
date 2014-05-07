@@ -1,5 +1,4 @@
 Documentation
-
 ====================
 
 index.html is currently using main.css - to see media queries at work, change to media.css
