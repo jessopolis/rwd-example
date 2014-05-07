@@ -10,5 +10,5 @@ original stylesheet that uses pixel values
 contains the converted pixel values (ems for font-size, percentages for margin, padding and width)
 
 ###media.css
-contains ^ above as well as media queries to address varying viewport sizes.
+contains changes from flexible.css and adds media queries to address varying viewport sizes.
 
