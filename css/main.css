@@ -1,0 +1,107 @@
+body {
+  background-color: #373c40;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Proxima Nova", "Helvetica Neue";
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 36px;
+  color: #edc27f;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 22px;
+  color: #91d2c9;
+  margin-top: 0px;
+}
+
+a {
+  font-family: "Proxima Nova", "Helvetica Neue";
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #edc27f;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+p {
+  font-family: "Proxima Nova", "Helvetica Neue";
+  font-weight: 300;
+  color: #aaaaaa;
+  font-size: 14px;
+}
+
+ul li {
+  list-style: none;
+}
+
+#wrapper {
+  width: 960px;
+  margin: 0px auto;
+  padding: 20px 0 0 0;
+}
+
+.header {
+  height: 200px;
+  width: 900px;
+  margin: 0px auto 10px;
+}
+
+.logo-area {
+  width: 480px;
+  margin: 0 10px;
+  float: left;
+}
+
+.logo-area img {
+  float: left;
+  width: 150px;
+}
+
+.nav {
+  width: 380px;
+  margin: 20px 10px;
+  float: right;
+  text-align: right;
+}
+
+.nav ul {
+  padding: 0px;
+}
+
+.nav li {
+  display: inline;
+  margin: 0px 5px;
+  padding: 20px 10px;
+}
+
+.gallery {
+  width: 900px;
+  margin: 0px auto;
+}
+
+.gallery li {
+  width: 276px;
+  margin: 10px;
+  display: inline;
+  float: left;
+}
+
+.gallery ul {
+  padding: 0px;
+  margin: 0 6px;
+}
+
+.gallery img {
+  width: 276px;
+}
+
+.gallery p {
+  margin: 10px;
+}
